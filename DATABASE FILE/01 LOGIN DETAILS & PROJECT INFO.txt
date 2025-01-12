@@ -2,7 +2,6 @@
 
 **Database Name: realestatephp**
 
-**Developed by Suraj Kumar Vishwakarma**
 
 **Recommended PHP Version 5.6, 7.4**
 
