@@ -1,6 +1,6 @@
 
 
-**Database Name: realestatephp
+**Database Name: realestatephp**
 
 **Recommended PHP Version 5.6, 7.4**
 
